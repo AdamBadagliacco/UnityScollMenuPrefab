@@ -9,7 +9,7 @@ How to import:
 2)	Download “ScrollMenuPrefabAndExampleScene.unitypackage” on to your computer
 3)	In Unity press Assets > Import Package > Custom Package and select the package you downloaded in step 2
 4)	A window will come up. Ensure that both the prefab and example scene are selected then press Import. 
-5)	Double click on the ScrollMenuExample scene in your assets to open the project. Run it and you will see your scrollable list just like the image you see below: 
+5)	Double click on the ScrollMenuExample scene in your assets to open the project. Run it and you will see your scrollable list just like the image seen below: 
 
 
 ![ExampleScreenShot](https://raw.githubusercontent.com/AdamBadagliacco/UnityScollMenuPrefab/master/Scroll_List_Image.PNG)
